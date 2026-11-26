@@ -8,7 +8,7 @@ A curated directory of donor CRM, fundraising, volunteer and grant-management so
 - [Grant Management (4)](#grant-management)
 - [Nonprofit Accounting (7)](#nonprofit-accounting)
 - [Online Fundraising (29)](#online-fundraising)
-- [Open Source (32)](#open-source)
+- [Open Source (33)](#open-source)
 - [Volunteer Management (5)](#volunteer-management)
 
 
@@ -100,6 +100,7 @@ A curated directory of donor CRM, fundraising, volunteer and grant-management so
 
 - [Cadasta](https://cadasta.org/platform/) - An open and flexible suite of mobile and web based tools designed to help users collect, manage, and store land and resource rights data. Supports land tenure documentation for communities and organizations. ([Read more](/details/cadasta.md)) `Open Source` `Self Hosted` `Land Rights` `Data Collection`
 - [Casebox](https://www.casebox.org/) - Open source case management and organization-wide collaboration software. Designed to help organizations manage cases, records, and collaborative workflows across teams. ([Read more](/details/casebox.md)) `Open Source` `Case Management` `Self Hosted`
+- [Charitology Charity OS](https://os.charitology.org/) - Free MIT open-source charity back-office workspace with 26 modules for volunteers, programs, grant-period reporting, public participation forms, full JSON backup export, and a read-only public MCP server alongside a 65-program verified free nonprofit resources directory. ([Read more](/details/charitology-charity-os.md)) `Open Source` `Free` `Grant Management` `Volunteer Management` `Self Hosted`
 - [CiviCRM](https://civicrm.org/) - CiviCRM is open-source constituent relationship management software for nonprofits and NGOs. It integrates with CMS platforms like WordPress, Drupal, and Joomla. ([Read more](/details/civicrm.md)) `Open Source` `Self Hosted` `API` `Donor Management` `CiviCRM`
 - [Consul](https://consulproject.org) - Free and open-source collaborative decision making and budgeting software used by many government bodies all around the world. Enables citizen participation in decision-making and participatory budgeting processes. ([Read more](/details/consul.md)) `Open Source` `Self Hosted` `Participatory Budgeting` `Civic Tech`
 - [Decidim](https://decidim.org/) - Free open-source participatory democracy for cities and organizations. Enables citizen participation, proposal creation, debate, and decision-making processes for municipalities and organizations. ([Read more](/details/decidim.md)) `Open Source` `Self Hosted` `Participatory Democracy`
